@@ -11,3 +11,5 @@ Example:
 
     Output:
     Hello, Bob
+
+You will need to learn the input() function and more about the print() function
