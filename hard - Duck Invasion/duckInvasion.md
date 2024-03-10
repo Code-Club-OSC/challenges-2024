@@ -1,3 +1,4 @@
+# DUCK INVASION
 Rubber ducks are secretly planning to take over the world and enslave human kind as workers in their mega cracker factory. This is a stealth operation. The ducks are distributed throughout the world, using their cuteness to gain people's trust. Once the number of ducks becomes strictly greater than the human population, commander duck will give the order to attack.
 
 You like crackers so you decide to help. You are given the number of ducks already distributed, the number of additional ducks distributed each day, the number of duck casualties each day (sadly, some ducks are lost, burned, or squashed), and the human population size. Determine how many days the ducks will wait before attacking.
